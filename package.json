@@ -1,0 +1,26 @@
+{
+  "name": "homebridge-http-domotika",
+  "version": "0.0.5",
+  "description": "A Domotika http(s) plugin for Homebridge: ",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": {
+    "name": "Fred Jublot"
+  },
+  "contributors":[
+    { "name" : "fred"}
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fjublot/homebridge-http-domotika.git"
+  },
+  "dependencies": {
+    "request": "^2.65.0"
+  }
+}

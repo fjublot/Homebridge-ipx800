@@ -1,0 +1,25 @@
+{
+    "bridge": {
+        "name": "Homebridge",
+        "username": "B8:27:EB:99:B5:63",
+        "port": 51826,
+        "pin": "031-45-156"
+    },
+
+    "description": "Homebridge platform",
+
+    "platforms": [],
+
+    "accessories": [
+      {
+        "accessory": "HttpDomotika",
+        "Domotika_url": "http://www.jublot.com/rasp4",
+        "Domotika_api": "3c424f2532cd3a97d43b1e56cfda21e7",
+        "Domotika_class": "relai",
+        "Domotika_numero": "7",
+        "name": "Jardin",
+        "onCommandID": "SetOn",
+        "offCommandID": "SetOff"
+      }
+    ]
+}
