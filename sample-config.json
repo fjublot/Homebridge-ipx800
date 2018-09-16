@@ -14,7 +14,7 @@
       {
         "accessory": "HttpDomotika",
         "Domotika_url": "http://www.jublot.com/rasp4",
-        "Domotika_api": "3c424f2532cd3a97d43b1e56cfda21e7",
+        "Domotika_api": "3c424f2532cd3dcdcdcedce56cfda21e7",
         "Domotika_class": "relai",
         "Domotika_numero": "7",
         "name": "Jardin",
